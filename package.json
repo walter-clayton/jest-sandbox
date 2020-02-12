@@ -1,0 +1,24 @@
+{
+  "name": "jest-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walter-clayton/jest-sandbox.git"
+  },
+  "author": "walter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walter-clayton/jest-sandbox/issues"
+  },
+  "homepage": "https://github.com/walter-clayton/jest-sandbox#readme"
+}
